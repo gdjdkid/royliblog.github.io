@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "我的第1篇文章"
+title: "欢迎来到我的博客"
 date: 2025-05-29
-categories: [技术, 随笔]
+categories: [随笔]
 ---
-## 正文内容
-Markdown 格式的正文...
+## 简要
+姓名：Roy
+年龄：30+
+技术领域：Java/Kotlin/Shell/Docker/SpringBoot/SQL
+
+## 目的
+通过写技术文章，来提高技能发展。
