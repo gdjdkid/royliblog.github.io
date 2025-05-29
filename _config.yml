@@ -8,8 +8,8 @@
 
 title: "Roy's 技术博客"
 description: "❤个人技术博客❤" 
-url: https://royliblog.github.io
-baseurl: 
+url: https://gdjdkid.github.io/royliblog.github.io/
+baseurl:
 github_username: gdjdkid
 
 # Email and twitter are optional:
@@ -20,7 +20,16 @@ twitter_username:
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: G-6EZLR5DH6P
+
+# Add the Comment System
+comments:
+  provider: "utterances"
+  utterances:
+    repo: gdjdkid/royliblog.github.io
+    theme: "github-light"
+    issue_term: "title"
+    label: ""
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
