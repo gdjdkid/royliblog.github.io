@@ -23,13 +23,13 @@ use_math: true
 google_analytics: G-6EZLR5DH6P
 
 # Add the Comment System
-comments:
-  provider: "utterances"
-  utterances:
-    repo: gdjdkid/royliblog.github.io
-    theme: "github-light"
-    issue_term: "title"
-    label: ""
+#comments:
+#  provider: "utterances"
+#  utterances:
+#    repo: gdjdkid/royliblog.github.io
+#    theme: "github-light"
+#    issue_term: "title"
+#    label: ""
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
