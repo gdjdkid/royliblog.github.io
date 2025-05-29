@@ -1,3 +1,22 @@
-# Your blog
+# 🌟 欢迎来到我的知识分享空间！
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+欢迎！  
+这里是 **探索IT技术与实践交汇点** 的博客空间。
+
+---
+
+## 🖼️ Blog's Logo
+![深度求索技术徽标](images/Thinker.jpg)
+
+---
+
+## ✨ 核心功能指南
+
+### 内容创作工具
+1. **优雅排版**  
+   - 二级标题自动生成视觉分隔
+   - 列表项实现清晰信息分层
+   ```markdown
+   ## 段落标题
+   - 要点说明1
+   - 要点说明2
