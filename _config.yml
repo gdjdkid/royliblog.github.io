@@ -8,11 +8,13 @@
 
 title: "Roy's 技术博客"
 description: "❤个人技术博客❤" 
+url: https://royliblog.github.io
+baseurl: 
 github_username: gdjdkid
 
 # Email and twitter are optional:
 email: gdjdkid2014@gmail.com
-twitter_username: gdjdkid
+twitter_username: 
 
 # Set this to true to get LaTeX math equation support
 use_math: true
